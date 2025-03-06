@@ -3,7 +3,7 @@
 🚀 Welcome to My GitHub Profile\
 Hi there! I'm Andreas, a passionate game developer and software engineer with a strong focus on C#, Unity, and game mechanics design. I enjoy tackling complex systems, refining code structures, and continuously improving my programming skills.
 
-🕹 Current Project\
+🕹 Current Project
 - [PixelJump](https://github.com/Remmold/PixelJump) – A physics-based platformer as my first real Unity project
 
 📬 Let's Connect
