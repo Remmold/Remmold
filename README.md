@@ -13,4 +13,4 @@ Hi there! I'm Andreas, a passionate game developer and software engineer with a 
 - [RemmoldGames](https://remmold.github.io/remmold-games/index.html) Webpage for demos and blogupdates
 
 ⏭️ Future plans
-- Create a 3d survival game in a fantasy setting
+Finding Fulfilling work past my education where i get to continue learning as i work
