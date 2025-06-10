@@ -5,7 +5,6 @@ Hi there! I'm Andreas, a passionate game developer and software engineer with a 
 
 🕹 Current Focus
 
-- Creating an online 3d RPG inspired by hardcore pvp mmorpgs such as Darkfall Online.
 - Data engineering
 
 📬 Let's Connect
