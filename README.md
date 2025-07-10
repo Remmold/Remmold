@@ -1,6 +1,5 @@
 ## Hi there 👋
 
-🚀 Welcome to My GitHub Profile\
 Hi there! I'm Andreas, a passionate game developer and data engineer-student with a strong focus on clean code, and constant learning
 
 🕹 Current Focus
