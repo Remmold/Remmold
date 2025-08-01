@@ -1,6 +1,9 @@
 ## Hi there 👋
 
 Hi there! I'm Andreas, a passionate game developer and data engineer-student with a strong focus on clean code, and constant learning
+I enjoy implementing AI-LLM into my projects.
+My dreamjob would be working for a gamestudio making rpgs.
+But as long as there is code involved im interessted
 
 🕹 Current Focus
 
