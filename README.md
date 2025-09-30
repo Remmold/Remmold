@@ -8,7 +8,8 @@ But as long as there is code involved im interested
 🕹 Current Focus
 
 - Data engineering
-- A world of warcraft Assistant App based on blizzards Dev portal API
+- A mealplanning app meant to help with our weekly shopping
+  
 
 📬 Let's Connect
 - [LinkedIn](https://www.linkedin.com/in/andreas-johansson-24b081320/)
