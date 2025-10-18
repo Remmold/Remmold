@@ -7,7 +7,7 @@ But as long as there is code involved im interested
 
 🕹 Current Focus
 
-- Data engineering
+- Ai Agents and tools
 - A mealplanning app meant to help with our weekly shopping
   
 
