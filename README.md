@@ -1,11 +1,11 @@
 
 <div align="center">
 
-### Game Developer | Data Engineer | Python Enthusiast
+![Header](https://capsule-render.vercel.app/api?type=waving&color=auto&height=200&section=header&text=Engineering%20Virtual%20Assistants&fontSize=50)
 
 <br/>
 
-![Header](https://capsule-render.vercel.app/api?type=waving&color=auto&height=200&section=header&text=Engineering%20Virtual%20Assistants&fontSize=50)
+### Game Developer | Data Engineer | Python Enthusiast
 
 <br/>
 
