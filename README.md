@@ -29,7 +29,7 @@ I'm a passionate developer with a dual focus on **Game Development** and **Data 
 
 - 🔭 I’m currently working on **a Platform to Teach Coding through Gamification**
 - 🎮 My dream is to Learn new skills while working for the rest of my life.
-- ⚡ Coding Philosophy: I prefer manual coding but use AI for rapid prototyping and learning.
+- ⚡ Coding Philosophy: I prefer manual coding but learning to leverage AI is a necessity to remain relevant in the future.
 - 🛠️ Passion: Building practical assistants for **FFXIV**, **WoW**, **Eve Online**, and **Lifestyle Management**.
 
 ---
