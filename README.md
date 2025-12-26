@@ -28,7 +28,7 @@
 I'm a passionate developer with a dual focus on **Game Development** and **Data Engineering**. I specialize in creating **Assistant Applications** to solve my own daily challenges—whether that's optimizing gameplay in MMORPGs or streamlining lifestyle tasks with data.
 
 - 🔭 I’m currently working on **a Platform to Teach Coding through Gamification**
-- 🎮 My dream is to work in a game studio making RPGs.
+- 🎮 My dream is to Learn new skills while working for the rest of my life.
 - ⚡ Coding Philosophy: I prefer manual coding but use AI for rapid prototyping and learning.
 - 🛠️ Passion: Building practical assistants for **FFXIV**, **WoW**, **Eve Online**, and **Lifestyle Management**.
 
