@@ -29,8 +29,8 @@ I'm a passionate developer with a dual focus on **Game Development** and **Data 
 
 - 🔭 I’m currently working on **an assistant for Darkfall Rise of agon** https://darkfallcompanion.se/
 - 🎮 My dream is to Learn new skills while working for the rest of my life.
-- ⚡ Coding Philosophy: I prefer manual coding but learning to leverage AI is a necessity to remain relevant in the future.
-- 🛠️ Passion: Building practical assistants for **FFXIV**, **WoW**, **Eve Online**, and **Lifestyle Management**.
+- ⚡ Coding Philosophy: In the current era of agentic engineering i feel more like a designer than a coder but i love solving problems.
+- 🛠️ Passion: Building practical tools that i need for **future development** and **Lifestyle Management**.
 
 ---
 
