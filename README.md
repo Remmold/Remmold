@@ -1,70 +1,62 @@
-
 <div align="center">
 
-![Header](https://capsule-render.vercel.app/api?type=waving&color=auto&height=200&section=header&text=Engineering%20Virtual%20Assistants&fontSize=50)
+![Engineering Virtual Assistants](https://capsule-render.vercel.app/api?type=waving&color=auto&height=200&section=header&text=Engineering%20Virtual%20Assistants&fontSize=50)
 
-<br/>
+# Andreas Johansson
 
-### Game Developer | Data Engineer | Python Enthusiast
+**Game Developer · Data Engineer · Agent Builder**
 
-<br/>
+*For the problems I actually have — with interfaces that don't need a manual.*
 
-<a href="mailto:andreas_91_johansson@hotmail.com">
-  <img src="https://img.shields.io/badge/-Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
-</a>
-<a href="https://www.linkedin.com/in/andreas-johansson-24b081320/">
-  <img src="https://img.shields.io/badge/-LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
-</a>
-<a href="https://remmold.github.io/remmold-games/index.html">
-  <img src="https://img.shields.io/badge/-Website-4CAF50?style=for-the-badge&logo=google-chrome&logoColor=white" alt="Website" />
-</a>
+[![Email](https://img.shields.io/badge/Email-D14836?style=flat-square&logo=gmail&logoColor=white)](mailto:andreas_91_johansson@hotmail.com)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/andreas-johansson-24b081320/)
+[![Website](https://img.shields.io/badge/Website-111111?style=flat-square&logo=githubpages&logoColor=white)](https://remmold.github.io/remmold-games/index.html)
 
 </div>
 
-<br/>
-
-## 👨‍💻 About Me
-
-I'm a passionate developer with a dual focus on **Game Development** and **Data Engineering**. I specialize in creating **Assistant Applications** to solve my own daily challenges—whether that's optimizing gameplay in MMORPGs or streamlining lifestyle tasks with data.
-
-- 🔭 I’m currently working on **an assistant for Darkfall Rise of agon** https://darkfallcompanion.se/
-- 🎮 My dream is to Learn new skills while working for the rest of my life.
-- ⚡ Coding Philosophy: In the current era of agentic engineering i feel more like a designer than a coder but i love solving problems.
-- 🛠️ Passion: Building practical tools that i need for **future development** and **Lifestyle Management**.
-
 ---
 
-## 🛠️ Languages and Tools
+## About
 
-| Category | Skills |
-| :--- | :--- |
-| **Languages** | ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white) ![C#](https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=c-sharp&logoColor=white) ![SQL](https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=postgresql&logoColor=white) ![Cypher](https://img.shields.io/badge/Cypher_(Neo4j)-008CC1?style=for-the-badge&logo=neo4j&logoColor=white) |
-| **Frameworks** | ![Unity](https://img.shields.io/badge/Unity-100000?style=for-the-badge&logo=unity&logoColor=white) ![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white) ![PydanticAI](https://img.shields.io/badge/PydanticAI-E92063?style=for-the-badge&logo=pydantic&logoColor=white) |
-| **Data & ML** | ![dbt](https://img.shields.io/badge/dbt-FF694B?style=flat-square&logo=dbt&logoColor=white) ![Dagster](https://img.shields.io/badge/Dagster-232F3E?style=flat-square&logo=dagster&logoColor=white) ![DuckDB](https://img.shields.io/badge/DuckDB-FFF000?style=flat-square&logo=duckdb&logoColor=black) ![Pandas](https://img.shields.io/badge/pandas-150458?style=flat-square&logo=pandas&logoColor=white) ![NumPy](https://img.shields.io/badge/numpy-013243?style=flat-square&logo=numpy&logoColor=white) ![Scikit-Learn](https://img.shields.io/badge/scikit--learn-F7931E?style=flat-square&logo=scikit-learn&logoColor=white) |
-| **Concepts** | ![OOP](https://img.shields.io/badge/Object--Oriented_Programming-F05032?style=flat-square) ![REST APIs](https://img.shields.io/badge/RESTful_APIs-005571?style=flat-square) ![Game Systems](https://img.shields.io/badge/Game_Systems_Design-6D214F?style=flat-square) ![Agentic AI](https://img.shields.io/badge/Agentic_Workflows-8e44ad?style=flat-square) |
-| **Tools & Cloud** | ![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white) ![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white) ![Azure](https://img.shields.io/badge/Azure-007FFF?style=flat-square&logo=microsoftazure&logoColor=white) ![VS Code](https://img.shields.io/badge/VS_Code-007ACC?style=flat-square&logo=visual-studio-code&logoColor=white) ![GitHub Projects](https://img.shields.io/badge/GitHub_Projects-181717?style=flat-square&logo=github&logoColor=white) |
-| **Collaboration** | ![Discord](https://img.shields.io/badge/Discord-%235865F2.svg?style=flat-square&logo=discord&logoColor=white) ![Zoom](https://img.shields.io/badge/Zoom-2D8CFF?style=flat-square&logo=zoom&logoColor=white) |
+I build assistants for the problems I actually have — a companion for Darkfall Rise of Agon, a multi-agent sim that reasons over messy medical documents, a meal planner that argues with my fridge.
 
----
+In the current era of agentic engineering I feel more like a designer than a coder, and I love it — the interesting work is upstream of the syntax. I sweat the UI/UX on my own projects as much as the code under it; good tools explain themselves, bad ones ship a manual. My long-term plan is simple: keep learning new things for the rest of my working life.
 
+**Currently building:** [darkfallcompanion.se](https://darkfallcompanion.se/) — an assistant for *Darkfall Rise of Agon*.
 
+## Stack
 
----
+|     |     |
+| :-- | :-- |
+| **Languages** | ![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white) ![C#](https://img.shields.io/badge/C%23-239120?style=flat-square&logo=c-sharp&logoColor=white) ![SQL](https://img.shields.io/badge/SQL-4479A1?style=flat-square&logo=postgresql&logoColor=white) ![Cypher](https://img.shields.io/badge/Cypher-008CC1?style=flat-square&logo=neo4j&logoColor=white) |
+| **Agents & APIs** | ![PydanticAI](https://img.shields.io/badge/PydanticAI-E92063?style=flat-square&logo=pydantic&logoColor=white) ![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=flat-square&logo=fastapi&logoColor=white) |
+| **Data** | ![dbt](https://img.shields.io/badge/dbt-FF694B?style=flat-square&logo=dbt&logoColor=white) ![Dagster](https://img.shields.io/badge/Dagster-4F43DD?style=flat-square&logo=dagster&logoColor=white) ![DuckDB](https://img.shields.io/badge/DuckDB-FFF000?style=flat-square&logo=duckdb&logoColor=black) ![pandas](https://img.shields.io/badge/pandas-150458?style=flat-square&logo=pandas&logoColor=white) ![scikit-learn](https://img.shields.io/badge/scikit--learn-F7931E?style=flat-square&logo=scikit-learn&logoColor=white) |
+| **Game** | ![Unity](https://img.shields.io/badge/Unity-000000?style=flat-square&logo=unity&logoColor=white) |
+| **Infra** | ![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white) ![Azure](https://img.shields.io/badge/Azure-0078D4?style=flat-square&logo=microsoftazure&logoColor=white) ![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white) |
 
-## 📂 Featured Projects
+## Selected Work
 
-| Project | Description | Concepts | Tech Stack |
-| :--- | :--- | :--- | :--- |
-| **[agentic-hospital](https://github.com/Remmold/agentic-hospital)** | Multi-Agent medical simulation using unstructured documents. | `Multi-Agent Systems` `ETL` `Simulation` | ![Python](https://img.shields.io/badge/-Python-3776AB?style=flat-square&logo=python&logoColor=white) ![PydanticAI](https://img.shields.io/badge/PydanticAI-E92063?style=flat-square&logo=pydantic&logoColor=white) |
-| **[wow-assistant](https://github.com/Remmold/wow-assistant)** | Strategic decision-making engine for WoW. | `Game Logic` `Data Analysis` | ![Python](https://img.shields.io/badge/-Python-3776AB?style=flat-square&logo=python&logoColor=white) |
-| **[Twitch-Chat-Assistant](https://github.com/Remmold/Twitch-Chat-Assistant)** | Automated engagement bot for streamers. | `Chatbots` `Automation` `API` | ![Python](https://img.shields.io/badge/-Python-3776AB?style=flat-square&logo=python&logoColor=white) |
-| **[AdventureGame](https://github.com/Remmold/AdventureGame)** | Large scale RPG project with complex systems. | `RPG Systems` `OOP` `Teamwork` | ![C#](https://img.shields.io/badge/-C%23-239120?style=flat-square&logo=c-sharp&logoColor=white) |
-| **[mealplanner](https://github.com/Remmold/mealplanner)** | Intelligent shopping & meal planning assistant. | `Fullstack` `Database Design` | ![Python](https://img.shields.io/badge/-Python-3776AB?style=flat-square&logo=python&logoColor=white) ![SQL](https://img.shields.io/badge/-SQL-4479A1?style=flat-square&logo=postgresql&logoColor=white) |
-| **[PixelJump](https://github.com/Remmold/PixelJump)** | Unity visual effects and gameplay project. | `VFX` `Game Dev` | ![Unity](https://img.shields.io/badge/-Unity-100000?style=flat-square&logo=unity&logoColor=white) ![C#](https://img.shields.io/badge/-C%23-239120?style=flat-square&logo=c-sharp&logoColor=white) |
+**[agentic-hospital](https://github.com/Remmold/agentic-hospital)** — Multi-agent medical simulation that reasons over unstructured intake notes.  
+`Python` · `PydanticAI` · `Multi-agent`
+
+**[ffxiv-companion](https://github.com/Remmold/ffxiv-companion)** — Market analysis companion for Final Fantasy XIV: price trends, flip margins, crafting profit math.  
+`JavaScript` · `Web`
+
+**[eve-online-companion](https://github.com/Remmold/eve-online-companion)** — Web toolkit for the parts of EVE Online that deserve better than a spreadsheet.  
+`Web`
+
+**[AdventureGame](https://github.com/Remmold/AdventureGame)** — Team-built RPG with combat, inventory and save systems.  
+`C#` · `OOP`
+
+**[PixelJump](https://github.com/Remmold/PixelJump)** — Unity VFX and movement-feel experiments.  
+`Unity` · `C#`
 
 ---
 
 <div align="center">
-<br/>
-<p><i>Thanks for visiting! Feel free to reach out.</i></p>
+
+<a href="https://github.com/Remmold">
+  <img src="https://github-readme-stats.vercel.app/api?username=Remmold&show_icons=true&hide_border=true&hide_title=true&include_all_commits=true&count_private=true&hide=contribs&card_width=420&text_color=555&icon_color=0A66C2&title_color=111&bg_color=00000000" alt="GitHub stats" />
+</a>
+
 </div>
