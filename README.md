@@ -51,12 +51,4 @@ In the current era of agentic engineering I feel more like a designer than a cod
 **[PixelJump](https://github.com/Remmold/PixelJump)** — Unity VFX and movement-feel experiments.  
 `Unity` · `C#`
 
----
-
-<div align="center">
-
-<a href="https://github.com/Remmold">
-  <img src="https://github-readme-stats.vercel.app/api?username=Remmold&show_icons=true&hide_border=true&hide_title=true&include_all_commits=true&count_private=true&hide=contribs&card_width=420&text_color=555&icon_color=0A66C2&title_color=111&bg_color=00000000" alt="GitHub stats" />
-</a>
-
 </div>
